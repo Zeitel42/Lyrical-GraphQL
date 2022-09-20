@@ -1,0 +1,14 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.trash{
+    color: gray;
+}
+
+.trash:hover {
+    cursor: pointer;
+    color: red;
+}
+
