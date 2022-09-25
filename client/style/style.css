@@ -12,3 +12,12 @@
     color: red;
 }
 
+.like {
+    color: rgb(68, 68, 252);
+}
+
+.like:hover {
+    cursor: pointer;
+    color: rgb(143, 143, 253);
+}
+
