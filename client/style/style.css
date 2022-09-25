@@ -3,12 +3,17 @@
     justify-content: space-between;
 }
 
+.material-icons{
+    cursor: pointer;
+    margin-right: 5px;
+}
+
 .trash{
     color: gray;
 }
 
 .trash:hover {
-    cursor: pointer;
+    
     color: red;
 }
 
@@ -17,7 +22,12 @@
 }
 
 .like:hover {
-    cursor: pointer;
+    
     color: rgb(143, 143, 253);
+}
+
+.vote-box{
+    display: flex;
+    align-items: center;
 }
 
