@@ -3,6 +3,11 @@ h2 {
     text-shadow: 1px 2px 3px darkblue;
 }
 
+h3 {
+    color: rgb(51, 160, 196);
+    text-shadow: 1px 2px 3px darkblue;
+}
+
 .collection-item {
     display: flex;
     justify-content: space-between;
